@@ -11,9 +11,6 @@ Images are automatically fetched from the internet based on the product name.
 - **Search Product**: Filters products based on name.
 - **Delete Product**: Remove unwanted products.
 
-## 🎨 UI Preview
-![Product Gallery Screenshot](https://source.unsplash.com/800x400/?ecommerce,shop)
-
 ## 🛠️ Technologies Used
 - HTML
 - CSS
